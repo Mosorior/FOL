@@ -1,5 +1,21 @@
 # UD 7 LA JORNADA DE TRABAJO.
 
+## 1. La jornada ordinaria
+
+- Máximo diario son 9 horas.
+- Entre 2 jornadas el descanso mínimo es de 12h.
+- El descanso mínimo semanal será de un día y medio.
+- Para menores de 18 años el tope diario son 8h.
+
+Distribución irregular:
+
+- Desde 2012 se puede trabajar de forma irregular un 10% de las horas anuales.
+- Esta distribución debe respetar los descansos mínimos diario y semanal.
+
+
+
+## 2. El horario de trabajo.
+
 ## 4. Reducción y adaptación de la jornada.
 
 ### Por cuidado de familiares:
