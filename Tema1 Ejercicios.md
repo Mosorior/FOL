@@ -40,11 +40,11 @@ f) Típico
 
 ## 5)
 
-a)
+a) Enfermedad profesional
 
-b)
+b) La asbestosis
 
-c)
+c) La Mutua
 
 
 
